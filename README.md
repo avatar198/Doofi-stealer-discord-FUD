@@ -1,8 +1,8 @@
 # Doofi-stealer-discord-FUD  
-FUD Stealer in Python, v20 compatible  
+FUD Stealer in Python, v20 compatible   
 # Features  
 **-builder   
--send to webhook  
+-send to discord webhook  
 -decrypt chrome's latest v20 passwords  
 -FUD (but please encrypt it)  
 -run as admin  
