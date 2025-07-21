@@ -10,4 +10,4 @@ FUD Stealer in Python, v20 compatible
 # Usage  
 ![Imgur Image](https://i.imgur.com/4eJma6R.png)  
 Download the ZIP, unpack it, and run the builder **(Stealinator)**  
-With this, you can even control the Tri-State Area XDD
+With this, you can even control the Tri-State Area XD
