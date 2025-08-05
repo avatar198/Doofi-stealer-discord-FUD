@@ -8,7 +8,9 @@ FUD Stealer in Python, V20 compatible
 -✅send logs to discord webhook  
 -✅decrypt chrome's latest v20 passwords  
 -✅run as admin  
--✅run at startup**  
+-✅run at startup  
+-✅get computer's name (cname)  
+-✅get user's IP**  
 # V2.1
 **-✅reworked the GUI  
 -✅options for output file    
