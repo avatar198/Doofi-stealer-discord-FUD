@@ -3,6 +3,10 @@ FUD Stealer in Python, V20 compatible
 
 ![Imgur Image](https://i.imgur.com/5KuYa1s.png)  
 
+# Requirements
+**-Python 3.10+ (3.10 tested)  
+-for packages run setup.bat**
+
 # Features  
 **-✅builder   
 -✅send logs to discord webhook  
