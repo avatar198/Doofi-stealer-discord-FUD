@@ -1,5 +1,5 @@
 # Doofi-stealer-discord-FUD  v2.2
-FUD Stealer in Python, V20 compatible   
+FUD Stealer in Python, V20 compatible!     
 
 ![Imgur Image](https://i.imgur.com/5KuYa1s.png)  
 
